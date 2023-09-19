@@ -4,6 +4,10 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/module2-web" />
+    <file type="web" url="file://$PROJECT_DIR$/web1" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>

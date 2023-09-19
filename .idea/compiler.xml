@@ -7,7 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Maven-demo" />
+        <module name="web1" />
+        <module name="module1-java" />
+        <module name="module2-web" />
       </profile>
     </annotationProcessing>
   </component>
