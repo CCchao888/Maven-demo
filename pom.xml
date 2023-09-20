@@ -12,6 +12,7 @@
         <module>module1</module>
         <module>module2-web</module>
         <module>web1</module>
+        <module>try</module>
     </modules>
 
 

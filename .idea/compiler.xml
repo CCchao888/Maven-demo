@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="web1" />
+        <module name="try" />
         <module name="module1-java" />
         <module name="module2-web" />
       </profile>
